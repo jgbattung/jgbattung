@@ -15,10 +15,10 @@
 </div>
 
 <div align="center">
-  <h2>
-    Great to see you here!
+  <p>
+    <b>Great to see you here!</b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h2>
+  </p>
 </div>
 
 ---
