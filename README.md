@@ -10,6 +10,8 @@
 </div>
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=jgbattung&style=flat-square&color=blue" alt=""/>
+
 <div align="center"><b> Great to see you here! 👋</b></div>
 
 <!--
