@@ -29,7 +29,8 @@
 ### :man_technologist: About Me: 
 
 I am a 24-year old Web Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> from the Philippines.
-- :euro: I came from the Finance industry but always had a heart for software and technology.
+- :euro: I came from the Finance industry but always had a heart for software and technology
+- :brain: In my free time, I like to explore and create personal projects to hone my technical skills
 
 <!--
 **jgbattung/jgbattung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
