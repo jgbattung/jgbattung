@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="20%"/>
 </div>
 
-### :man_technologist: About Me:
+### :man_technologist: About Me: I am a Web Developer from the Philippines :philippines:
 
 <!--
 **jgbattung/jgbattung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
