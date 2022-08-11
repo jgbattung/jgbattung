@@ -53,7 +53,7 @@ I am a 24-year old Web Developer <img src="https://media.giphy.com/media/bGgsc5m
 
 ### :fire: My Stats :
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jgbattung&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-jgbattung&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
 <!--
