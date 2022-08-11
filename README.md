@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me: 
 
-I am a Web Developer from the Philippines :philippines:
+I am a Web Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> from the Philippines.
 
 <!--
 **jgbattung/jgbattung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
