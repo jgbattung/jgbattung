@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="20%"/>
 </div>
 
-### :man_technologist: About Me: 
+### About Me: 
 
 I am a 25-year old Web Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> from the Philippines.
 - :euro: I came from the Finance industry but always had a heart for software and technology
@@ -34,7 +34,7 @@ I am a 25-year old Web Developer <img src="https://media.giphy.com/media/bGgsc5m
 - 📫 Got any ideas you'd like to work on with me? You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jireh-battung/)
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -56,7 +56,7 @@ I am a 25-year old Web Developer <img src="https://media.giphy.com/media/bGgsc5m
 
 ---
 
-### :fire: My Stats :
+### My Stats :
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jgbattung&theme=dark&background=000000)](https://git.io/streak-stats)<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgbattung&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
