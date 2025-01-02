@@ -28,10 +28,10 @@
 
 ### About Me: 
 
-I am a 25-year old Web Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> from the Philippines.
+I am a 27-year old Web Developer <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> from the Philippines.
 - :euro: I came from the Finance industry but always had a heart for software and technology
 - :brain: In my free time, I like to explore and create personal projects to hone my technical skills
-- 📫 Got any ideas you'd like to work on with me? You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jireh-battung/)
+- 📫 Got any ideas you'd like to work on with me? You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jireh-battung/)
 
 ---
 ### Languages and Tools :
